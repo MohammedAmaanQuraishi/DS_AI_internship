@@ -1,0 +1,10 @@
+import sys
+print("hello")
+print("my python version",sys.version)
+print("my python version",sys.version)
+print("my python version",sys.version)
+print("my python version",sys.version)
+print("my python version",sys.version)
+print("my python version",sys.version)
+print("my python version",sys.version)
+print("my python version",sys.version)
