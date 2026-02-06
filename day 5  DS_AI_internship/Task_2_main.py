@@ -1,6 +1,9 @@
-import math_operations #importing the module
+import Task_2_math_operations as mo #importing the module
 
-print(math_operations.power(2, 10))#calling power function
+print(mo.power(2, 10)) #Calling the power functions
 
 numbers = [10, 20, 30, 40]
-print(math_operations.average(numbers))#calling average function
+print(mo.average(numbers)) #importing the module#calling average function
+
+
+

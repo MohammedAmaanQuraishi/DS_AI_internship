@@ -7,7 +7,7 @@ def  calc_rectangle(length, width):
     return area,perimeter
   
 #Calling the function   
-calc_rectangle(3, 4)
+#calc_rectangle(3, 4)
 
 #input of length and width
 length=int(input("Enter the length:"))
