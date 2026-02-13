@@ -1,0 +1,8 @@
+git init
+ls -force
+git remote add origin"repository location"
+git branch
+git branch -m main
+git add .
+git commit -m "message"
+git push origin main

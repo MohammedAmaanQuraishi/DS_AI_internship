@@ -1,0 +1,4 @@
+  "CustomerID": [101, 102, 103, 104, 105, 101, 107, 108, 109, 110],
+    "Name": ["Amaan", "Rahul", "Sneha", None, "Priya", "Amaan", "Vikram", "Neha", None, "Karan"],
+    "City": ["Delhi", "Mumbai", "Pune", "Delhi", None, "Delhi", "Chennai", "Mumbai", "Mumbai", "Pune"],
+    "Age": [25, 30, None, 28, 22, 25, 35, None, 27, 40]
