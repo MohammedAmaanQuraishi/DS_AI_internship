@@ -1,9 +1,5 @@
 # Student details
-<<<<<<< HEAD
 name = "A"
-=======
-name = "B"
->>>>>>> feature-login
 age = 20
 marks = 85
 
