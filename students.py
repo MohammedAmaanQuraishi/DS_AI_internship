@@ -1,5 +1,8 @@
-name = "Amaan q"
-age =19
-salary=500000
+# Student details
+name = "Amaan"
+age = 20
+marks = 85
 
-print(f"name is {name},\nage is {age},\nsalaryis {salary}\n ")
+print("Name:", name)
+print("Age:", age)
+print("Marks:", marks)
