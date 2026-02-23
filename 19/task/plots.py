@@ -1,5 +1,5 @@
 # Student details
-name = "Amaan"
+name = "A"
 age = 20
 marks = 85
 
