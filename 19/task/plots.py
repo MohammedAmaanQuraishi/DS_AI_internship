@@ -1,5 +1,9 @@
 # Student details
+<<<<<<< HEAD
 name = "B"
+=======
+name = "A"
+>>>>>>> feature-viz
 age = 20
 marks = 85
 
