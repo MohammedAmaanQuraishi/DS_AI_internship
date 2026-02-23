@@ -1,4 +1,4 @@
-name = "Ayaan"
+name = "Amaan q"
 age =19
 salary=500000
 
